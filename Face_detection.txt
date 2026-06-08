@@ -1,0 +1,5 @@
+opencv-python
+numpy
+
+# Optional only when using --emotion-model with a Keras/TensorFlow model:
+# tensorflow
